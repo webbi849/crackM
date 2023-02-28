@@ -5,13 +5,13 @@ crackM is a tool to crack MD5 type hashes
 requirements:
 python 3.11 [by using "install now" option in the installer] (if having issues in the steps please download phyton 3.11 from the microsoft store)
 
-1- go to the file explorer that you have opend the file in and in the directory write "cmd" and cmd window will come up
+1- go to the file explorer that you have the file in and in the directory write "cmd" and a window will come up
 
 2- now in the window write "python crackM.py"
 
-3- enter your hash (needs to be md5)
+3- enter your wordlist/password list directory
 
-4- enter your wordlist/password list
+4- enter your hash (needs to be MD5)
 
 5- wait till finnished
 
