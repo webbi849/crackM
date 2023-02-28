@@ -11,8 +11,8 @@ print('''created by webbi
                                   
 ''')
 
-wlist=input("enter wordlist: ")
-hash2crack=input("enter hash: ")
+wlist=input("enter wordlist directory: ")
+hash2crack=input("enter hash [MD5]: ")
 
 wlistlines=open(wlist, "r").readlines()
 
