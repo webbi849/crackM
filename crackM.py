@@ -1,12 +1,14 @@
 import hashlib
 
 print('''created by webbi
-
-         CCCCC  RRRRR     A      CCCCC   K  K    M     M
-         C      R   R    A A     C       K K     M M M M
-         CCCCC  RRRRR   A A A    CCCCC   K K     M  M  M
-                R  R   A     A           K   K   M     M
-                R   R
+                      _    __  __ 
+                     | |  |  \/  |
+   ___ _ __ __ _  ___| | _| \  / |
+  / __| '__/ _` |/ __| |/ / |\/| |
+ | (__| | | (_| | (__|   <| |  | |
+  \___|_|  \__,_|\___|_|\_\_|  |_|
+                                  
+                                  
 ''')
 
 wlist=input("enter wordlist: ")
